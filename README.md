@@ -1,5 +1,5 @@
 # 👋 Summary:
-💬 Full Stack Web Developer Mobile Developer <br>
+💬 Full Stack Web Developer <br>
 💬 Mobile Developer <br>
 🌱 Studying: DevSecOps, Bug Hunting, Rust <br>
 📫 Reach me at: hftamayo@gmail.com<br> 
